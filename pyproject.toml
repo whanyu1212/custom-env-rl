@@ -11,7 +11,8 @@ dependencies = [
     "gymnasium (>=1.1.0,<2.0.0)",
     "numpy (>=2.2.3,<3.0.0)",
     "matplotlib (>=3.10.0,<4.0.0)",
-    "ipykernel (>=6.29.5,<7.0.0)"
+    "ipykernel (>=6.29.5,<7.0.0)",
+    "yfinance (>=0.2.54,<0.3.0)"
 ]
 
 
